@@ -1,0 +1,15 @@
+{
+    "titulo":"Elmer'S",
+    "email":"elmerramos@icanux.org",
+    "nombre":"Elmer",
+    "pagina_autor":"elmerramos.com",
+    "facebook":"https://facebook.com/elmers.ramos",
+    "twitter":"https://twitter.com",
+    "instagram":"https://instagram.com",
+    "tblr":"htpps://tumbler.com",
+    "equipo_trabajo":[
+        {"trabajador1" : "juan"},
+        {"trabajador1" : "jhoan"},
+        {"trabajador1" : "joel"}
+    ]
+}
